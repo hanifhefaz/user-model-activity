@@ -82,7 +82,7 @@ Once you have installed and configured the package, you can start using it to tr
     }
     ```
 
-    That is it. Now just visit ```user-activity``` URL and select the file where you saved the logs. You will see all the logs.
+    That is it. Now just visit ```user-model-activity``` URL and select the file where you saved the logs. You will see all the logs.
 
 
     ![View](/images/view.png "Logs View")
